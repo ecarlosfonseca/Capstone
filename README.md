@@ -5,21 +5,21 @@ This project had the objective of developing a model to help the UK Police depar
 Regarding data, the collected information on the search operations is available since 2017, with the 
 following:
 
-● Age range
-● Date
-● Gender
-● Latitude
-● Legislation
-● Longitude
-● Object of search
-● Officer-defined ethnicity
-● Outcome
-● Outcome linked to object of search
-● Part of a policing operation
-● Removal of more than just outer clothing
-● Self-defined ethnicity
-● Type
-● Station
+- Age range
+- Date
+- Gender
+- Latitude
+- Legislation
+- Longitude
+- Object of search
+- Officer-defined ethnicity
+- Outcome
+- Outcome linked to object of search
+- Part of a policing operation
+- Removal of more than just outer clothing
+- Self-defined ethnicity
+- Type
+- Station
 
 The ​training dataset​ has approximately 660,000 observations.
 
